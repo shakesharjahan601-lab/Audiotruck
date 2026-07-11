@@ -3,6 +3,7 @@
     "name": "truck-audio-game",
     "slug": "truck-audio-game",
     "version": "1.0.0",
+    "sdkVersion": "51.0.0",
     "orientation": "portrait",
     "android": {
       "package": "com.sean.truckaudiogame"
