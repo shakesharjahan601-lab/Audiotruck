@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Truck Audio Game",
+    "slug": "truck-audio-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.yourname.truckaudiogame"
+    }
+  }
+}
