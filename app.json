@@ -1,17 +1,12 @@
 {
   "expo": {
     "name": "truck-audio-game",
-    "slug": "truck-audio-game",
+    "slug": "audiotruck",
     "version": "1.0.0",
     "sdkVersion": "51.0.0",
     "orientation": "portrait",
     "android": {
       "package": "com.sean.truckaudiogame"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "da1c5a99-1764-470f-aef6-74c4e4352387"
-      }
     }
   }
 }
