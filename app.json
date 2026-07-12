@@ -2,6 +2,7 @@
   "expo": {
     "name": "truck-audio-game",
     "slug": "Audiotruck",
+    "owner": "shakeshajahans-team",
     "version": "1.0.0",
     "sdkVersion": "51.0.0",
     "orientation": "portrait",
